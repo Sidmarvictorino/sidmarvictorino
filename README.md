@@ -19,7 +19,7 @@ JavaScript: Expertise em desenvolvimento JavaScript para criar interações din�
 - **JavaScript**: ES6+, manipulação do DOM, e lógica de programação.
 - **React**: Componentes funcionais, hooks, estado e ciclo de vida.
 
-  ⚙️ <h1> Back-end:</h1>
+  ⚙️Back-end:
 Node.js: Expertise em criação de rotas e manipulação de requisições HTTP para construir aplicações escaláveis e eficientes no lado do servidor.
 
 📚 Aprendendo e Crescendo:
