@@ -1,6 +1,16 @@
 # Olá, mundo! 👋
 
-Meu nome é Sidmar e sou um desenvolvedor front-end apaixonado por transformar designs em realidade digital. Com um olhar atento para detalhes e uma paixão por criar experiências de usuário imersivas, eu me especializo em trazer conceitos visuais à vida com código limpo e eficiente.
+<h1>Freelancer Front-end | Especialista em HTML, CSS, JavaScript e Node.js</h1>
+
+Bem-vindoao meu perfil do GitHub! Sou Sidmar, um freelancer apaixonado por desenvolvimento Front-end. Aqui, você encontrará uma coleção de projetos que demonstram minha experiência e conhecimento em HTML, CSS, JavaScript e Node.js. Vamos dar uma olhada em algumas das minhas áreas de especialização:
+
+🚀 Front-end Proficiente:
+
+HTML5: Experiência sólida na construção de estruturas semânticas para páginas web modernas.
+
+CSS3: Domínio de CSS para criar layouts responsivos e estilizados que melhoram a experiência do usuário.
+
+JavaScript: Expertise em desenvolvimento JavaScript para criar interações dinâmicas e experiências de usuário envolventes.
 
 ## Minhas Habilidades Técnicas 🛠️
 
@@ -9,8 +19,11 @@ Meu nome é Sidmar e sou um desenvolvedor front-end apaixonado por transformar d
 - **JavaScript**: ES6+, manipulação do DOM, e lógica de programação.
 - **React**: Componentes funcionais, hooks, estado e ciclo de vida.
 
-Adoro colaborar com equipes multidisciplinares e estou sempre em busca de novos desafios. Vamos codificar algo incrível juntos!
+  ⚙️ <h1> Back-end:</h1>
+Node.js: Expertise em criação de rotas e manipulação de requisições HTTP para construir aplicações escaláveis e eficientes no lado do servidor.
 
+📚 Aprendendo e Crescendo:
+Estou constantemente aprendendo e explorando novas tecnologias para aprimorar minhas habilidades. Meus repositórios refletem minha jornada de aprendizado contínuo.
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
